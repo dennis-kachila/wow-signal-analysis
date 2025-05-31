@@ -1,0 +1,31 @@
+Wow! Signal Information Extraction Analysis
+================================================================================
+
+Information Metrics:
+--------------------------------------------------------------------------------
+shannon_entropy: 4.255330337524259
+normalized_entropy: 0.9845907299008779
+mean_abs_diff: 0.04903301700098497
+lz_complexity_approx: 0.5513392857142857
+
+Numerical Pattern Analysis:
+--------------------------------------------------------------------------------
+Pattern type: related_to_e
+  scaling_factor: 0.1630968
+  error: 0.15595706666666667
+  confidence: Very Low
+
+Binary Encoding Analysis:
+--------------------------------------------------------------------------------
+No likely binary encodings detected.
+
+Amplitude Modulation Analysis:
+--------------------------------------------------------------------------------
+num_peaks: 1
+num_troughs: 0
+
+Summary:
+--------------------------------------------------------------------------------
+- Signal entropy (normalized: 0.98) is consistent with random or natural signals
+- Detected potential related_to_e pattern with Very Low confidence
+- No clear binary encoding patterns detected

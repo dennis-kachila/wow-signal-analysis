@@ -29,7 +29,7 @@ htmlcov/
 .hypothesis/
 
 # Jupyter Notebook checkpoints
-.ipynb_checkpoints
+# .ipynb_checkpoints
 
 # pyenv
 .python-version
@@ -46,16 +46,16 @@ htmlcov/
 # Logs
 *.log
 
-# Results and generated files
-results/
-*.json
-*.md
-*.png
-*.wav
-*.jpg
-*.mp3
-*.txt
-*.csv
+# # Results and generated files
+# results/
+# *.json
+# *.md
+# *.png
+# *.wav
+# *.jpg
+# *.mp3
+# *.txt
+# *.csv
 
 # Ignore data files
-data/
+#data/

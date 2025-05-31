@@ -1,0 +1,11 @@
+Mean Spectral Centroid: 1509.77 Hz
+Mean Spectral Bandwidth: 1733.28 Hz
+Mean Spectral Flatness: 0.0040 (0 = pure tone, 1 = white noise)
+Mean Spectral Rolloff: 3378.82 Hz
+
+Dominant Frequencies:
+  1. 150.73 Hz (magnitude: 62.99)
+  2. 3542.21 Hz (magnitude: 47.33)
+  3. 1970.29 Hz (magnitude: 18.52)
+  4. 37.68 Hz (magnitude: 18.10)
+  5. 2815.47 Hz (magnitude: 16.01)

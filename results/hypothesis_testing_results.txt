@@ -1,0 +1,44 @@
+Hypothesis: Terrestrial Radio Frequency Interference
+--------------------------------------------------------------------------------
+Evidence For:
+
+Evidence Against:
+- Signal duration (72 seconds) matches exactly the time for Earth's rotation to sweep the telescope beam across a fixed point in the sky
+- Signal frequency was at 1420.4056 MHz (hydrogen line), a protected frequency with limited terrestrial usage
+- Smooth signal envelope untypical of nearby RFI
+
+Conclusion: Limited evidence for terrestrial RFI hypothesis
+Confidence: Low
+================================================================================
+
+Hypothesis: Natural Astronomical Phenomenon
+--------------------------------------------------------------------------------
+Evidence For:
+- Signal duration (72 seconds) is consistent with a fixed astronomical source passing through the telescope beam
+- Signal frequency at hydrogen line (1420 MHz) is common in astronomical sources
+- Signal has a smooth profile consistent with many natural sources
+
+Evidence Against:
+- No similar signals were detected in subsequent observations despite extensive searches
+- Signal was extremely narrowband (< 10 kHz), untypical of most natural radio sources except masers
+
+Conclusion: Some characteristics consistent with natural phenomena
+Confidence: Low to Medium
+================================================================================
+
+Hypothesis: Extraterrestrial Intelligent Signal
+--------------------------------------------------------------------------------
+Evidence For:
+- Signal at hydrogen line (1420 MHz) matches theoretical predictions for deliberate interstellar communication
+- Extremely narrowband signal (< 10 kHz) consistent with technological origin
+- Signal duration (72 seconds) matches telescope beam transit time for a fixed source, suggesting cosmic origin
+- Signal stood out dramatically from background noise (up to 30σ)
+
+Evidence Against:
+- Signal was never detected again despite extensive follow-up observations
+- No clear structured pattern detected in the signal
+
+Conclusion: Several characteristics consistent with an ETI hypothesis
+Confidence: Low to Medium
+================================================================================
+
